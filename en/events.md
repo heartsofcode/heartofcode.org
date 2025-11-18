@@ -1,0 +1,13 @@
+# Events
+
+In our [space](/en/space.md) [we](/en/about.md) host all sorts of regular and irregular events. Our events are by and for [FLINTA](https://en.wikipedia.org/wiki/FLINTA*) (women, lesbians, inter, non-binary, trans and agender people). [Endo](https://en.wikipedia.org/wiki/Endosex) [cis](https://en.wikipedia.org/wiki/Cisgender) [men](https://en.wikipedia.org/wiki/Man) are not welcome. Same goes for racism, sexism, ableism, classism, antisemitism, [TERFs](https://en.wikipedia.org/wiki/TERF_(acronym)), trans and in general all queer hostility.
+
+You can find our program in the [calendar](https://pad.systemli.org/p/heartofcode-knUZP66XbkBBZpfKxFx6-keep). We also have a [Signal group](https://signal.group/#CjQKIKcj5S25ptG6H9bzdbaeot1_whif9j59J7bOmm91TeTlEhAc-VmeJpTuP-tZuOJad_MT) that works as an announcement channel. Bigger events will also be announced on [Mastodon](https://mastodon.social/@heartofcode@systemli.social). If the description in the calendar doesn't say otherwise you don't need to sign up for the events. It's usually a good idea to check the calendar on the day of the event again in case it had to be cancelled last minute. Last minute changes will probably reach you fastest over the Signal group.
+
+Big events can also take place in other rooms in the NewYorck (see the [details of our room](/en/space.md)). So if our [space](/en/space.md) happens to be empty one day make sure to check the other rooms as well!
+
+## Barriers
+
+Since most of the events take place in our space, the [barriers of our space](/en/space.md#barriers) also become barriers of the events.
+
+The extent to which the events present barriers for people with visual, hearing, or other impairments varies a lot. The regular hangout meetings should hopefully give everyone the opportunity to have fun. Very few people know sign language, but communication is of course also possible via text. Our sofa offers the opportunity to lie down when exhausted, and we are happy to help visually impaired people find their way to the room. For autistic people, it can sometimes be difficult sensory wise. Sometimes, however, there are only a few people at the meetings which makes it much calmer. In general: we are happy to make an effort to create a pleasant space for as many people as possible. For other events such as workshops and the like, we try to provide a description of what barriers the learning materials or similar may present in the event description in the calendar. If any information is missing, please contact us directly!
