@@ -15,7 +15,7 @@ export default defineConfig({
           { text: 'Über uns', link: '/about' },
           { text: 'Raum', link: '/space' },
           { text: 'Events', link: '/events' },
-          { text: 'Kalendar', link: 'https://pad.systemli.org/p/heartofcode-knUZP66XbkBBZpfKxFx6-keep' },
+          { text: 'Kalender', link: 'https://pad.systemli.org/p/heartofcode-knUZP66XbkBBZpfKxFx6-keep' },
           { text: 'Kontakt', link: '/contact' },
         ],
         outline: {
