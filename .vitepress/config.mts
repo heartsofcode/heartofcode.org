@@ -17,6 +17,7 @@ export default defineConfig({
           { text: 'Events', link: '/events' },
           { text: 'Kalender', link: 'https://pad.systemli.org/p/heartofcode-knUZP66XbkBBZpfKxFx6-keep' },
           { text: 'Kontakt', link: '/contact' },
+          { text: 'Spenden', link: '/donations' },
         ],
         outline: {
           label: 'Auf dieser Seite',
@@ -34,6 +35,7 @@ export default defineConfig({
           { text: 'Events', link: '/en/events' },
           { text: 'Calendar', link: 'https://pad.systemli.org/p/heartofcode-knUZP66XbkBBZpfKxFx6-keep' },
           { text: 'Contact', link: '/en/contact' },
+          { text: 'Donations', link: '/en/donations' },
         ],
       }
     }
