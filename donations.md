@@ -13,7 +13,7 @@ IBAN: DE22500310001047900006 \
 BIC: TRODDEF1 \
 Verwendungszweck: Spende
 
-Für eine Spendenbescheinigung schreibst du uns am besten eine [Mail](mailto:hello@heartofcode.org?subject=Spendenbescheinigung) mit dem Datum und Betrag der Überweisung und dann (ganz wichtig!) vollständiger Name und Anschrift für den Spendenbescheid. Den gibt's dann per Post.
+Für eine Spendenbescheinigung schreibst du uns am besten eine [Mail](mailto:hello@heartofcode.org?subject=Spendenbescheinigung) mit dem Datum und Betrag der Überweisung und dann (ganz wichtig!) dem vollständigen Namen und Anschrift für den Spendenbescheid. Den gibt's dann per Post.
 
 ## Sachspenden
 
