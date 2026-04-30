@@ -1,6 +1,6 @@
 # Unterstütze uns!
 
-Die Heart of Code wird von ehenamtlicher Arbeit getragen. Kosten für Räume, Infrastruktur und sonstige Ausgaben für Veranstaltungen und Workshops tragen die Mitglieder über Beiträge. Du möchtest unsere Arbeit unterstützen? Super! Hier sind ein paar Optionen :)
+Die Heart of Code wird von ehrenamtlicher Arbeit getragen. Kosten für Räume, Infrastruktur und sonstige Ausgaben für Veranstaltungen und Workshops tragen die Mitglieder über Beiträge. Du möchtest unsere Arbeit unterstützen? Super! Hier sind ein paar Optionen :)
 
 ## Geld spenden
 
