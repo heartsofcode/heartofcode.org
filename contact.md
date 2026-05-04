@@ -10,4 +10,4 @@ Sonst gibt es auch noch:
 
 - Mastodon: [@heartofcode@systemli.social](https://mastodon.social/@heartofcode@systemli.social)
 - Die [Signal-Gruppe](https://signal.group/#CjQKIKcj5S25ptG6H9bzdbaeot1_whif9j59J7bOmm91TeTlEhAc-VmeJpTuP-tZuOJad_MT) für Ankündigungen
-- Den [Kalender](https://pad.systemli.org/p/heartofcode-knUZP66XbkBBZpfKxFx6-keep) mit unserem Programm
+- Den [Kalender](/calendar.md) mit unserem Programm

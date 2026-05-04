@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: alt
       text: Event calendar
-      link: https://pad.systemli.org/p/heartofcode-knUZP66XbkBBZpfKxFx6-keep
+      link: /calendar
     - theme: alt
       text: Directions
       link: /en/space#directions

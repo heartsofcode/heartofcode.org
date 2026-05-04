@@ -15,7 +15,7 @@ export default defineConfig({
           { text: 'Über uns', link: '/about' },
           { text: 'Raum', link: '/space' },
           { text: 'Events', link: '/events' },
-          { text: 'Kalender', link: 'https://pad.systemli.org/p/heartofcode-knUZP66XbkBBZpfKxFx6-keep' },
+          { text: 'Kalender', link: '/calendar' },
           { text: 'Kontakt', link: '/contact' },
           { text: 'Spenden', link: '/donations' },
         ],
@@ -33,7 +33,7 @@ export default defineConfig({
           { text: 'About us', link: '/en/about' },
           { text: 'Space', link: '/en/space' },
           { text: 'Events', link: '/en/events' },
-          { text: 'Calendar', link: 'https://pad.systemli.org/p/heartofcode-knUZP66XbkBBZpfKxFx6-keep' },
+          { text: 'Calendar', link: '/calendar' },
           { text: 'Contact', link: '/en/contact' },
           { text: 'Donations', link: '/en/donations' },
         ],
@@ -48,7 +48,7 @@ export default defineConfig({
     },
 
     footer: {
-      copyright: "Copyright © 2025 Heart of Code e.V."
+      copyright: "Copyright © 2026 Heart of Code e.V."
     },
     sidebar: [],
     socialLinks: [
