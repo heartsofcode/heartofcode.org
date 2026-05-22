@@ -1,8 +1,6 @@
 # Support us!
 
-Heart of Code is run entirely on volunteering work. Members cover the costs of space, infrastructure, and other expenses for events and workshops through their membership fees. 
-
-If you would like to support our work: That's great. Here are some options :)
+Heart of Code is run entirely on volunteering work. Members cover the costs of our space, infrastructure, and other expenses for events and workshops through their membership fees. You want to support our work? We appreciate every donation and are grateful to everyone who supports us! Here are some options :\)
 
 ## Donate money
 
