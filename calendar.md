@@ -14,25 +14,10 @@ up in front of a locked door ♥
 
 ### Mai 2026
 
-**★ DI 05.05. 18:30 Programming Co-learning (biweekly)**\
-Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
-Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
-besprechen. Oder häng einfach ab!\
-Come over and join us to work on your project in a cozy and relaxed
-atmosphere. We\'re learning programming together and can discuss your
-tech questions. Or just hang out!
-
-**★ DI 19.05. 18:30 Programming Co-learning (biweekly)**\
-Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
-Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
-besprechen. Oder häng einfach ab!\
-Come over and join us to work on your project in a cozy and relaxed
-atmosphere. We\'re learning programming together and can discuss your
-tech questions. Or just hang out!
-
 **★ SU 31.05. Heart of Code Brunch *INTERNAL***
 
 ### Juni 2026
+
 **★ DI 02.06. 18:30 Programming Co-learning (biweekly)**\
 Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
 Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
@@ -42,6 +27,24 @@ atmosphere. We\'re learning programming together and can discuss your
 tech questions. Or just hang out!
 
 ## Past events 
+
+### Mai 2026
+
+**★ DI 19.05. 18:30 Programming Co-learning (biweekly)**\
+Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
+Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
+besprechen. Oder häng einfach ab!\
+Come over and join us to work on your project in a cozy and relaxed
+atmosphere. We\'re learning programming together and can discuss your
+tech questions. Or just hang out!
+
+**★ DI 05.05. 18:30 Programming Co-learning (biweekly)**\
+Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
+Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
+besprechen. Oder häng einfach ab!\
+Come over and join us to work on your project in a cozy and relaxed
+atmosphere. We\'re learning programming together and can discuss your
+tech questions. Or just hang out!
 
 ### April 2026
 
@@ -64,16 +67,6 @@ digital sexualized violence and deepfake porn.
 Different venue with limited capacity, please reserve a
 free ticket here:\
 [https://pretix.eu/heartofcode/understanding/](https://pretix.eu/heartofcode/understanding/)
-
-**★ 06.04. NY Cleaning**
-
-**★ DI 07.04. 18:30 Programming Co-learning (biweekly)**\
-Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
-Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
-besprechen. Oder häng einfach ab!\
-Come over and join us to work on your project in a cozy and relaxed
-atmosphere. We\'re learning programming together and can discuss your
-tech questions. Or just hang out!
 
 **★ 🖥️ Wednesday 08.04. 19:00/19:30 Linux Tinker+Install Party 🐧**\
 Join us for a Linux Tinker+Install Party at Heart of Code 🌈 No matter
@@ -121,6 +114,16 @@ Love, Murphy & lislis
 
 Slides:
 [https://me.murphy.science/stuff/IntroToLinux.pdf](https://me.murphy.science/stuff/IntroToLinux.pdf)
+
+**★ DI 07.04. 18:30 Programming Co-learning (biweekly)**\
+Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
+Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
+besprechen. Oder häng einfach ab!\
+Come over and join us to work on your project in a cozy and relaxed
+atmosphere. We\'re learning programming together and can discuss your
+tech questions. Or just hang out!
+
+**★ 06.04. NY Cleaning**
 
 ### March 2026
 
