@@ -12,23 +12,52 @@ up in front of a locked door ♥
 
 ## Current events
 
-### Mai 2026
-
-**★ SU 31.05. Heart of Code Brunch *INTERNAL***
-
 ### Juni 2026
 
 **★ DI 02.06. 18:30 Programming Co-learning (biweekly)**\
-Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
+DE: Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
 Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
-besprechen. Oder häng einfach ab!\
-Come over and join us to work on your project in a cozy and relaxed
-atmosphere. We\'re learning programming together and can discuss your
+besprechen. Oder häng einfach ab!
+
+EN: Come over and join us to work on your project in a cozy and relaxed
+atmosphere. We're learning programming together and can discuss your
+tech questions. Or just hang out!
+
+**★ DI 16.06. 18:30 Programming Co-learning (biweekly)**\
+DE: Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
+Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
+besprechen. Oder häng einfach ab!
+
+EN: Come over and join us to work on your project in a cozy and relaxed
+atmosphere. We're learning programming together and can discuss your
+tech questions. Or just hang out!
+
+**★ DI 30.06. 18:30 Programming Co-learning (biweekly)**\
+DE: Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
+Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
+besprechen. Oder häng einfach ab!
+
+EN: Come over and join us to work on your project in a cozy and relaxed
+atmosphere. We're learning programming together and can discuss your
+tech questions. Or just hang out!
+
+### Juli 2026
+
+**★ DI 14.07. 18:30 Programming Co-learning (biweekly)**\
+DE: Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
+Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
+besprechen. Oder häng einfach ab!
+
+EN: Come over and join us to work on your project in a cozy and relaxed
+atmosphere. We're learning programming together and can discuss your
 tech questions. Or just hang out!
 
 ## Past events 
 
 ### Mai 2026
+
+**★ SU 31.05. Heart of Code Brunch *INTERNAL***
+
 
 **★ DI 19.05. 18:30 Programming Co-learning (biweekly)**\
 Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
