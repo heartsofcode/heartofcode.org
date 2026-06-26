@@ -25,6 +25,20 @@ tech questions. Or just hang out!
 
 ### Juli 2026
 
+**★ MI 08.07. 19:00 Multi-Thread-Meetup**\
+Beim Multi-Thread-Meetup geht es darum Dinge gleichzeitig zu tun, nämlich
+etwas mit den Händen und Faden (wie Stricken, Häkeln, Kreuzstich, oder
+ihr wollt) und etwas mit dem Gehirn (zB einen oder mehrere Tech-Talks
+ansehen und dann besprechen). Bringt eure eigenen Sticknadeln oder
+anderes Material mit, jedes Niveau ist willkommen! 
+
+EN Multi-Thread-Meetup is about doing things at the same time, namely doing
+something with your hands and physical thread (like knitting,
+crocheting, cross-stiching, whatever) and something with your brain
+(probably watching one or more tech talks together and talk about it).
+Bring your own gear, any level welcome! 
+
+
 **★ DI 14.07. 18:30 Programming Co-learning (biweekly)**\
 DE: Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
 Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
