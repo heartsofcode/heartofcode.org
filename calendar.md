@@ -12,17 +12,6 @@ up in front of a locked door ♥
 
 ## Current events
 
-### Juni 2026
-
-**★ DI 30.06. 18:30 Programming Co-learning (biweekly)**\
-DE: Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
-Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
-besprechen. Oder häng einfach ab!
-
-EN: Come over and join us to work on your project in a cozy and relaxed
-atmosphere. We're learning programming together and can discuss your
-tech questions. Or just hang out!
-
 ### Juli 2026
 
 **★ MI 08.07. 19:00 Multi-Thread-Meetup**\
@@ -47,6 +36,14 @@ besprechen. Oder häng einfach ab!
 EN: Come over and join us to work on your project in a cozy and relaxed
 atmosphere. We're learning programming together and can discuss your
 tech questions. Or just hang out!
+
+**★ MI 22.07. 19:00 Print Your Pride Workshop**\
+DE: Kostenloser 3D-Druck Workshop! Komm vorbei, unseren 3D Drucker 
+kennenzulernen und deinen eigenen Pride-Schmuck (Ohrringe, Anhänger, usw) 
+selbst zu drucken.
+
+EN: Free 3D Printing Workshop! Come by to get to know our 3D printer
+and print your own jewelry (earrings, pendants, etc.) for Pride. 
 
 **★ DI 28.07. 18:30 Programming Co-learning (biweekly)**\
 DE: Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
@@ -91,6 +88,15 @@ tech questions. Or just hang out!
 ## Past events 
 
 ### Juni 2026
+
+**★ DI 30.06. 18:30 Programming Co-learning (biweekly)**\
+DE: Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
+Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
+besprechen. Oder häng einfach ab!
+
+EN: Come over and join us to work on your project in a cozy and relaxed
+atmosphere. We're learning programming together and can discuss your
+tech questions. Or just hang out!
 
 **★ DI 16.06. 18:30 Programming Co-learning (biweekly)**\
 DE: Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
