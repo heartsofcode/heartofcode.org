@@ -12,23 +12,121 @@ up in front of a locked door ♥
 
 ## Current events
 
+### Juli 2026
+
+**★ MI 08.07. 19:00 Multi-Thread-Meetup**\
+Beim Multi-Thread-Meetup geht es darum Dinge gleichzeitig zu tun, nämlich
+etwas mit den Händen und Faden (wie Stricken, Häkeln, Kreuzstich, oder
+ihr wollt) und etwas mit dem Gehirn (zB einen oder mehrere Tech-Talks
+ansehen und dann besprechen). Bringt eure eigenen Sticknadeln oder
+anderes Material mit, jedes Niveau ist willkommen! 
+
+EN Multi-Thread-Meetup is about doing things at the same time, namely doing
+something with your hands and physical thread (like knitting,
+crocheting, cross-stiching, whatever) and something with your brain
+(probably watching one or more tech talks together and talk about it).
+Bring your own gear, any level welcome! 
+
+
+**★ DI 14.07. 18:30 Programming Co-learning (biweekly)**\
+DE: Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
+Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
+besprechen. Oder häng einfach ab!
+
+EN: Come over and join us to work on your project in a cozy and relaxed
+atmosphere. We're learning programming together and can discuss your
+tech questions. Or just hang out!
+
+**★ MI 22.07. 19:00 Print Your Pride Workshop**\
+DE: Kostenloser 3D-Druck Workshop! Komm vorbei, unseren 3D Drucker
+kennenzulernen und deinen eigenen Pride-Schmuck (Ohrringe, Anhänger, usw)
+selbst zu drucken.
+
+EN: Free 3D Printing Workshop! Come by to get to know our 3D printer
+and print your own jewelry (earrings, pendants, etc.) for Pride.
+
+**★ DI 28.07. 18:30 Programming Co-learning (biweekly)**\
+DE: Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
+Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
+besprechen. Oder häng einfach ab!
+
+EN: Come over and join us to work on your project in a cozy and relaxed
+atmosphere. We're learning programming together and can discuss your
+tech questions. Or just hang out!
+
+**★ DO 30.07. 19:00 ☀️⛱️ SHOW US YOUR HEARTS summer edition ⛱️☀️**\
+The sun is burning, so are our hearts! ❤️‍🔥
+Show Us Your Hearts is an evening for sharing whatever moves you: whether it’s a project, a special interest, vacation photos, or anything else you’d like to present.
+
+Everyone gets a 10-15 minute slot to share their screen with the group. The idea is simple: Let’s see what you’re working on, what excites you, or what you’re curious about. Or just come to watch, connect and get to know the Heart of Code. Hope to see many (new) faces! ☺️
+
+### August 2026
+
+**★ DI 11.08. 18:30 Programming Co-learning (biweekly)**\
+DE: Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
+Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
+besprechen. Oder häng einfach ab!
+
+EN: Come over and join us to work on your project in a cozy and relaxed
+atmosphere. We're learning programming together and can discuss your
+tech questions. Or just hang out!
+
+**★ DI 25.08. 18:30 Programming Co-learning (biweekly)**\
+DE: Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
+Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
+besprechen. Oder häng einfach ab!
+
+EN: Come over and join us to work on your project in a cozy and relaxed
+atmosphere. We're learning programming together and can discuss your
+tech questions. Or just hang out!
+
+### September 2026
+
+**★ DI 08.09. 18:30 Programming Co-learning (biweekly)**\
+DE: Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
+Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
+besprechen. Oder häng einfach ab!
+
+EN: Come over and join us to work on your project in a cozy and relaxed
+atmosphere. We're learning programming together and can discuss your
+tech questions. Or just hang out!
+
+## Past events
+
+### Juni 2026
+
+**★ DI 30.06. 18:30 Programming Co-learning (biweekly)**\
+DE: Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
+Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
+besprechen. Oder häng einfach ab!
+
+EN: Come over and join us to work on your project in a cozy and relaxed
+atmosphere. We're learning programming together and can discuss your
+tech questions. Or just hang out!
+
+**★ DI 16.06. 18:30 Programming Co-learning (biweekly)**\
+DE: Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
+Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
+besprechen. Oder häng einfach ab!
+
+EN: Come over and join us to work on your project in a cozy and relaxed
+atmosphere. We're learning programming together and can discuss your
+tech questions. Or just hang out!
+
+**★ DI 02.06. 18:30 Programming Co-learning (biweekly)**\
+DE: Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
+Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
+besprechen. Oder häng einfach ab!
+
+EN: Come over and join us to work on your project in a cozy and relaxed
+atmosphere. We're learning programming together and can discuss your
+tech questions. Or just hang out!
+
+
 ### Mai 2026
 
 **★ SU 31.05. Heart of Code Brunch *INTERNAL***
 
-### Juni 2026
-
-**★ DI 02.06. 18:30 Programming Co-learning (biweekly)**\
-Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
-Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
-besprechen. Oder häng einfach ab!\
-Come over and join us to work on your project in a cozy and relaxed
-atmosphere. We\'re learning programming together and can discuss your
-tech questions. Or just hang out!
-
-## Past events 
-
-### Mai 2026
 
 **★ DI 19.05. 18:30 Programming Co-learning (biweekly)**\
 Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
@@ -1016,7 +1114,7 @@ Komm vorbei und mach ein Tutorial, schau einen Vortrag an oder erledigt
 andere Aufgaben. Oder hängt einfach ab!\
 Come and do a tutorial, watch a conference talk or do other tasks. Or
 just hang out!
-### MAR 2024 
+### MAR 2024
 ★ 05.03. 18:30 \~ Programming Co-learning\
 Komm vorbei und mach ein Tutorial, schau einen Vortrag an oder erledigt
 andere Aufgaben. Oder hängt einfach ab!\
