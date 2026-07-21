@@ -5,7 +5,7 @@ Die Heart of Code wird von ehrenamtlicher Arbeit getragen. Kosten für unseren R
 
 ## Geld spenden
 
-Du (oder deine Frima) könnt uns ganz klassisch Geld spenden! Wir sind gemeinnützig und können Spendenbescheinigungen ab 200 Euro ausstellen.
+Du (oder deine Firma) könnt uns ganz klassisch Geld spenden! Wir sind gemeinnützig und können Spendenbescheinigungen ab 200 Euro ausstellen.
 
 **Kontodaten:**
 
