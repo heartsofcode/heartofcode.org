@@ -14,37 +14,6 @@ up in front of a locked door ♥
 
 ### Juli 2026
 
-**★ MI 08.07. 19:00 Multi-Thread-Meetup**\
-Beim Multi-Thread-Meetup geht es darum Dinge gleichzeitig zu tun, nämlich
-etwas mit den Händen und Faden (wie Stricken, Häkeln, Kreuzstich, oder
-ihr wollt) und etwas mit dem Gehirn (zB einen oder mehrere Tech-Talks
-ansehen und dann besprechen). Bringt eure eigenen Sticknadeln oder
-anderes Material mit, jedes Niveau ist willkommen! 
-
-EN Multi-Thread-Meetup is about doing things at the same time, namely doing
-something with your hands and physical thread (like knitting,
-crocheting, cross-stiching, whatever) and something with your brain
-(probably watching one or more tech talks together and talk about it).
-Bring your own gear, any level welcome! 
-
-
-**★ DI 14.07. 18:30 Programming Co-learning (biweekly)**\
-DE: Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
-Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
-besprechen. Oder häng einfach ab!
-
-EN: Come over and join us to work on your project in a cozy and relaxed
-atmosphere. We're learning programming together and can discuss your
-tech questions. Or just hang out!
-
-**★ MI 22.07. 19:00 Print Your Pride Workshop**\
-DE: Kostenloser 3D-Druck Workshop! Komm vorbei, unseren 3D Drucker
-kennenzulernen und deinen eigenen Pride-Schmuck (Ohrringe, Anhänger, usw)
-selbst zu drucken.
-
-EN: Free 3D Printing Workshop! Come by to get to know our 3D printer
-and print your own jewelry (earrings, pendants, etc.) for Pride.
-
 **★ DI 28.07. 18:30 Programming Co-learning (biweekly)**\
 DE: Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
 Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
@@ -92,6 +61,38 @@ atmosphere. We're learning programming together and can discuss your
 tech questions. Or just hang out!
 
 ## Past events
+
+### Juli 2026
+**★ MI 08.07. 19:00 Multi-Thread-Meetup**\
+Beim Multi-Thread-Meetup geht es darum Dinge gleichzeitig zu tun, nämlich
+etwas mit den Händen und Faden (wie Stricken, Häkeln, Kreuzstich, oder
+ihr wollt) und etwas mit dem Gehirn (zB einen oder mehrere Tech-Talks
+ansehen und dann besprechen). Bringt eure eigenen Sticknadeln oder
+anderes Material mit, jedes Niveau ist willkommen! 
+
+EN Multi-Thread-Meetup is about doing things at the same time, namely doing
+something with your hands and physical thread (like knitting,
+crocheting, cross-stiching, whatever) and something with your brain
+(probably watching one or more tech talks together and talk about it).
+Bring your own gear, any level welcome! 
+
+
+**★ DI 14.07. 18:30 Programming Co-learning (biweekly)**\
+DE: Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
+Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
+besprechen. Oder häng einfach ab!
+
+EN: Come over and join us to work on your project in a cozy and relaxed
+atmosphere. We're learning programming together and can discuss your
+tech questions. Or just hang out!
+
+**★ MI 22.07. 19:00 Print Your Pride Workshop**\
+DE: Kostenloser 3D-Druck Workshop! Komm vorbei, unseren 3D Drucker
+kennenzulernen und deinen eigenen Pride-Schmuck (Ohrringe, Anhänger, usw)
+selbst zu drucken.
+
+EN: Free 3D Printing Workshop! Come by to get to know our 3D printer
+and print your own jewelry (earrings, pendants, etc.) for Pride.
 
 ### Juni 2026
 
