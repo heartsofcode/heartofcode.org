@@ -12,33 +12,7 @@ up in front of a locked door ♥
 
 ## Current events
 
-### Juli 2026
-
-**★ DI 28.07. 18:30 Programming Co-learning (biweekly)**\
-DE: Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
-Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
-besprechen. Oder häng einfach ab!
-
-EN: Come over and join us to work on your project in a cozy and relaxed
-atmosphere. We're learning programming together and can discuss your
-tech questions. Or just hang out!
-
-**★ DO 30.07. 19:00 ☀️⛱️ SHOW US YOUR HEARTS summer edition ⛱️☀️**\
-The sun is burning, so are our hearts! ❤️‍🔥
-Show Us Your Hearts is an evening for sharing whatever moves you: whether it’s a project, a special interest, vacation photos, or anything else you’d like to present.
-
-Everyone gets a 10-15 minute slot to share their screen with the group. The idea is simple: Let’s see what you’re working on, what excites you, or what you’re curious about. Or just come to watch, connect and get to know the Heart of Code. Hope to see many (new) faces! ☺️
-
 ### August 2026
-
-**★ DI 11.08. 18:30 Programming Co-learning (biweekly)**\
-DE: Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
-Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
-besprechen. Oder häng einfach ab!
-
-EN: Come over and join us to work on your project in a cozy and relaxed
-atmosphere. We're learning programming together and can discuss your
-tech questions. Or just hang out!
 
 **★ DI 25.08. 18:30 Programming Co-learning (biweekly)**\
 DE: Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
@@ -61,6 +35,16 @@ atmosphere. We're learning programming together and can discuss your
 tech questions. Or just hang out!
 
 ## Past events
+
+### August 2026
+**★ DI 11.08. 18:30 Programming Co-learning (biweekly)**\
+DE: Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
+Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
+besprechen. Oder häng einfach ab!
+
+EN: Come over and join us to work on your project in a cozy and relaxed
+atmosphere. We're learning programming together and can discuss your
+tech questions. Or just hang out!
 
 ### Juli 2026
 **★ MI 08.07. 19:00 Multi-Thread-Meetup**\
@@ -93,6 +77,22 @@ selbst zu drucken.
 
 EN: Free 3D Printing Workshop! Come by to get to know our 3D printer
 and print your own jewelry (earrings, pendants, etc.) for Pride.
+
+**★ DI 28.07. 18:30 Programming Co-learning (biweekly)**\
+DE: Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
+Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
+besprechen. Oder häng einfach ab!
+
+EN: Come over and join us to work on your project in a cozy and relaxed
+atmosphere. We're learning programming together and can discuss your
+tech questions. Or just hang out!
+
+**★ DO 30.07. 19:00 ☀️⛱️ SHOW US YOUR HEARTS summer edition ⛱️☀️**\
+The sun is burning, so are our hearts! ❤️‍🔥
+Show Us Your Hearts is an evening for sharing whatever moves you: whether it’s a project, a special interest, vacation photos, or anything else you’d like to present.
+
+Everyone gets a 10-15 minute slot to share their screen with the group. The idea is simple: Let’s see what you’re working on, what excites you, or what you’re curious about. Or just come to watch, connect and get to know the Heart of Code. Hope to see many (new) faces! ☺️
+
 
 ### Juni 2026
 
