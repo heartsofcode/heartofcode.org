@@ -12,9 +12,30 @@ up in front of a locked door ♥
 
 ## Current events
 
-### August 2026
+### November 2026
+**★ DI 03.11. 18:30 Programming Co-learning (biweekly)**\
+DE: Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
+Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
+besprechen. Oder häng einfach ab!
 
-**★ DI 25.08. 18:30 Programming Co-learning (biweekly)**\
+**★ DI 17.11. 18:30 Programming Co-learning (biweekly)**\
+DE: Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
+Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
+besprechen. Oder häng einfach ab!
+
+### Oktober 2026
+**★ DI 06.10. 18:30 Programming Co-learning (biweekly)**\
+DE: Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
+Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
+besprechen. Oder häng einfach ab!
+
+**★ DI 20.10. 18:30 Programming Co-learning (biweekly)**\
+DE: Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
+Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
+besprechen. Oder häng einfach ab!
+
+### September 2026
+**★ DI 08.09. 18:30 Programming Co-learning (biweekly)**\
 DE: Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
 Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
 besprechen. Oder häng einfach ab!
@@ -23,9 +44,7 @@ EN: Come over and join us to work on your project in a cozy and relaxed
 atmosphere. We're learning programming together and can discuss your
 tech questions. Or just hang out!
 
-### September 2026
-
-**★ DI 08.09. 18:30 Programming Co-learning (biweekly)**\
+**★ DI 22.09. 18:30 Programming Co-learning (biweekly)**\
 DE: Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
 Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
 besprechen. Oder häng einfach ab!
@@ -37,6 +56,15 @@ tech questions. Or just hang out!
 ## Past events
 
 ### August 2026
+**★ DI 25.08. 18:30 Programming Co-learning (biweekly)**\
+DE: Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
+Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
+besprechen. Oder häng einfach ab!
+
+EN: Come over and join us to work on your project in a cozy and relaxed
+atmosphere. We're learning programming together and can discuss your
+tech questions. Or just hang out!
+
 **★ DI 11.08. 18:30 Programming Co-learning (biweekly)**\
 DE: Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
 Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
