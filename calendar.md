@@ -18,16 +18,18 @@ DE: Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
 Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
 besprechen. Oder häng einfach ab!
 
-EN: Unpack your paper, pens, scissors! We're making zines this afternoon. 
-Rough, fast and dirty zines. You will finish your zine today :) Come by!
+EN: Come over and join us to work on your project in a cozy and relaxed
+atmosphere. We're learning programming together and can discuss your
+tech questions. Or just hang out!
 
 **★ DI 17.11. 18:30 Programming Co-learning (biweekly)**\
 DE: Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
 Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
 besprechen. Oder häng einfach ab!
 
-EN: Unpack your paper, pens, scissors! We're making zines this afternoon. 
-Rough, fast and dirty zines. You will finish your zine today :) Come by!
+EN: Come over and join us to work on your project in a cozy and relaxed
+atmosphere. We're learning programming together and can discuss your
+tech questions. Or just hang out!
 
 ### Oktober 2026
 **★ DI 06.10. 18:30 Programming Co-learning (biweekly)**\
@@ -35,16 +37,18 @@ DE: Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
 Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
 besprechen. Oder häng einfach ab!
 
-EN: Unpack your paper, pens, scissors! We're making zines this afternoon. 
-Rough, fast and dirty zines. You will finish your zine today :) Come by!
+EN: Come over and join us to work on your project in a cozy and relaxed
+atmosphere. We're learning programming together and can discuss your
+tech questions. Or just hang out!
 
 **★ DI 20.10. 18:30 Programming Co-learning (biweekly)**\
 DE: Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
 Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
 besprechen. Oder häng einfach ab!
 
-EN: Unpack your paper, pens, scissors! We're making zines this afternoon. 
-Rough, fast and dirty zines. You will finish your zine today :) Come by!
+EN: Come over and join us to work on your project in a cozy and relaxed
+atmosphere. We're learning programming together and can discuss your
+tech questions. Or just hang out!
 
 ### September 2026
 **★ DI 08.09. 18:30 Programming Co-learning (biweekly)**\
