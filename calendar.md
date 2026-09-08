@@ -69,13 +69,13 @@ EN: Come over and join us to work on your project in a cozy and relaxed
 atmosphere. We're learning programming together and can discuss your
 tech questions. Or just hang out!
 
-**★ SO 27.09. 16:00 Rough Zine Making Afternoon**\
+**★ SO 27.09. 16:00 Rough Zine Making Afternoon ✂️✂️✂️**\
 DE: Papier, Stifte, Schere ausgepackt! Wir machen heute nachmittags Zines. 
-Unfertige, schnell zusammengezimmerte Zines. Dein Zine wird heute nachmittag fertig :)
+Unfertige, schnell zusammengezimmerte Zines. Dein Zine wird heute nachmittag fertig.
 Komm vorbei!
 
 EN: Unpack your paper, pens, scissors! We're making zines this afternoon. 
-Rough, fast and dirty zines. You will finish your zine today :) Come by!
+Rough, fast and dirty zines. You will finish your zine today. Come by!
 
 ## Past events
 
