@@ -41,6 +41,16 @@ EN: Come over and join us to work on your project in a cozy and relaxed
 atmosphere. We're learning programming together and can discuss your
 tech questions. Or just hang out!
 
+**★ DO 08.10. 18:30 AI venting and zine club**\
+DE: Fragst du dich manchmal, ob du die letzte Person bist, die noch 
+klar denken kann, weil alle anderen KI nutzen, ohne darüber nachzudenken?
+Hier ist Platz, um merkwürdige KI Geschichten zu teilen und Dampf abzulassen 
+und unsere Emotionen in ein kleines Zine zu gießen.
+
+EN: Are you wondering if you're the last person with a clear mind while 
+everybody seems to use AI mindlessly? This is a space to rant and vent and
+we may channel our emotions into a small zine.
+
 **★ DI 20.10. 18:30 Programming Co-learning (biweekly)**\
 DE: Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
 Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
