@@ -41,7 +41,7 @@ EN: Come over and join us to work on your project in a cozy and relaxed
 atmosphere. We're learning programming together and can discuss your
 tech questions. Or just hang out!
 
-**★ DO 08.10. 18:30 AI venting and zine club**\
+**★ DO 08.10. 18:30 AI venting and zine club ❤️‍🩹❤️‍🩹❤️‍🩹**\
 DE: Fragst du dich manchmal, ob du die letzte Person bist, die noch 
 klar denken kann, weil alle anderen KI nutzen, ohne darüber nachzudenken?
 Hier ist Platz, um merkwürdige KI Geschichten zu teilen und Dampf abzulassen 
