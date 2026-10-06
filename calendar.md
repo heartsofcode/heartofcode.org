@@ -32,14 +32,6 @@ atmosphere. We're learning programming together and can discuss your
 tech questions. Or just hang out!
 
 ### Oktober 2026
-**★ DI 06.10. 18:30 Programming Co-learning (biweekly)**\
-DE: Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
-Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
-besprechen. Oder häng einfach ab!
-
-EN: Come over and join us to work on your project in a cozy and relaxed
-atmosphere. We're learning programming together and can discuss your
-tech questions. Or just hang out!
 
 **★ DO 08.10. 18:30 AI venting and zine club ❤️‍🩹❤️‍🩹❤️‍🩹**\
 DE: Fragst du dich manchmal, ob du die letzte Person bist, die noch 
@@ -52,6 +44,19 @@ everybody seems to use AI mindlessly? This is a space to rant and vent and
 we may channel our emotions into a small zine.
 
 **★ DI 20.10. 18:30 Programming Co-learning (biweekly)**\
+DE: Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
+Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
+besprechen. Oder häng einfach ab!
+
+EN: Come over and join us to work on your project in a cozy and relaxed
+atmosphere. We're learning programming together and can discuss your
+tech questions. Or just hang out!
+
+
+## Past events
+
+### Oktober 2026
+**★ DI 06.10. 18:30 Programming Co-learning (biweekly)**\
 DE: Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
 Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
 besprechen. Oder häng einfach ab!
@@ -86,8 +91,6 @@ Komm vorbei!
 
 EN: Unpack your paper, pens, scissors! We're making zines this afternoon. 
 Rough, fast and dirty zines. You will finish your zine today. Come by!
-
-## Past events
 
 ### August 2026
 **★ DI 25.08. 18:30 Programming Co-learning (biweekly)**\
