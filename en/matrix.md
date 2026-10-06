@@ -1,0 +1,34 @@
+# Join our Matrix Instance.
+
+We use [Matrix](https://matrix.org), a secure and decentralized communication platform, to collaborate and communicate. We encourage you to join our Matrix instance, if you want to stay informed and chat with fellow Heart of Code folks. 
+
+This guide will help you get started with our Matrix instance.
+
+**Step 1: Install a Matrix Client**
+
+Download and install one of the official Matrix clients for your platform, listed at https://matrix.org/ecosystem/clients/. Alternatively use the web-hosted version.
+
+**Step 2: Register an Account**
+
+After launching a Matrix client, if you don't already have a Matrix account, register a new one. You can use your email address or phone number for registration. 
+
+Heart of Code's Matrix homeserver does not hold user accounts, so you will need to choose a different homeserver to register.
+
+If you are trying Matrix for the first time, you could choose the matrix.org homeserver. However, please take a look at the following guides to understand the tradeoffs/advice on choosing a homeserver: 
+
+* [“Join Matrix!” Guide: Basics](https://joinmatrix.org/guide/#set-up-your-own-homeserver-or-join-an-existing-homeserver). 
+* https://servers.joinmatrix.org/users.html
+
+**Step 3: Join Our Organization's Matrix Room**
+
+Once you've set up your account, find and join our organization's main room by searching for its ID or name in the client's search bar. Our room ID is: `#community:matrix.heartofcode.org`.
+
+**Step 4: Set up Notifications**
+
+Adjust your notification settings to ensure you receive important updates and messages from the team.
+
+**Step 5: Start Chatting**
+
+Feel free to introduce yourself, ask questions, and participate in discussions with your fellow Heart of Coders!
+
+Happy collaborating, and welcome to our Matrix instance!
