@@ -1,8 +1,15 @@
-# Join our Matrix Instance.
+# Join our Matrix Instance
 
+Heart of Code has a community server. Follow this link to join it: https://matrix.to/#/#community:matrix.heartofcode.org.
+
+If you don't know what Matrix is, follow this guide to get setup.
+
+### About Matrix
 We use [Matrix](https://matrix.org), a secure and decentralized communication platform, to collaborate and communicate. We encourage you to join our Matrix instance, if you want to stay informed and chat with fellow Heart of Code folks. 
 
 This guide will help you get started with our Matrix instance.
+
+### Setup
 
 **Step 1: Install a Matrix Client**
 

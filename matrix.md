@@ -1,8 +1,13 @@
 # Tritt unserer Matrix-Instanz bei
 
+Heart of Code hat ein Community-Server, hier ist der Link, um dazu beizutreten: https://matrix.to/#/#community:matrix.heartofcode.org
+
+Wenn du noch nicht weißt, was Matrix ist, unten findest du eine Anleitung, wie du es einrichtest.
+
+### Über Matrix
 Wir nutzen [Matrix](https://matrix.org), eine sichere und dezentrale Kommunikationsplattform, um zusammenzuarbeiten und uns auszutauschen. Wenn du auf dem Laufenden bleiben und mit anderen Leuten aus der Heart of Code chatten möchtest, komm gerne in unsere Matrix-Instanz!
 
-Diese Anleitung hilft dir beim Einstieg.
+### Einrichtung
 
 **Schritt 1: Installiere einen Matrix-Client**
 
