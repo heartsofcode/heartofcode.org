@@ -26,7 +26,7 @@ Wenn du Matrix zum ersten Mal ausprobierst, kannst du den Homeserver matrix.org 
 
 **Schritt 3: Tritt unserem Matrix-Raum bei**
 
-Sobald dein Account eingerichtet ist, such in der Suchliste deines Clients nach der ID oder dem Namen unseres Hauptraums und tritt ihm bei. Unsere Raum-ID lautet: `#community:matrix.heartofcode.org`.
+Sobald dein Account eingerichtet ist, such in der Suchliste deines Clients nach der ID oder dem Namen unseres Hauptraums und tritt ihm bei. Unsere Raum-ID lautet: [`#community:matrix.heartofcode.org`](https://matrix.to/#/#community:matrix.heartofcode.org).
 
 **Schritt 4: Richte Benachrichtigungen ein**
 

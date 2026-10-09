@@ -28,7 +28,7 @@ If you are trying Matrix for the first time, you could choose the matrix.org hom
 
 **Step 3: Join Our Organization's Matrix Room**
 
-Once you've set up your account, find and join our organization's main room by searching for its ID or name in the client's search bar. Our room ID is: `#community:matrix.heartofcode.org`.
+Once you've set up your account, find and join our organization's main room by searching for its ID or name in the client's search bar. Our room ID is: [`#community:matrix.heartofcode.org`](https://matrix.to/#/#community:matrix.heartofcode.org).
 
 **Step 4: Set up Notifications**
 
