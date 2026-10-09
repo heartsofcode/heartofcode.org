@@ -55,6 +55,7 @@ export default defineConfig({
       {icon: "signal", link: "https://signal.group/#CjQKIKcj5S25ptG6H9bzdbaeot1_whif9j59J7bOmm91TeTlEhAc-VmeJpTuP-tZuOJad_MT"},
       {icon: "mastodon", link: "https://mastodon.social/@heartofcode@systemli.social"},
       { icon: 'github', link: 'https://github.com/heartsofcode' },
+      { icon: 'matrix', link: 'https://matrix.to/#/#community:matrix.heartofcode.org' },
     ]
   }
 })
