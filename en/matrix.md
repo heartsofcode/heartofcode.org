@@ -13,7 +13,13 @@ This guide will help you get started with our Matrix instance.
 
 **Step 1: Install a Matrix Client**
 
-Download and install one of the official Matrix clients for your platform, listed at https://matrix.org/ecosystem/clients/. Alternatively use the web-hosted version.
+To use Matrix you need an app, called a *client*. There are many to choose from, but we recommend **Element**, the most widely used one. It's free and available everywhere:
+
+* **In your browser:** open https://app.element.io. Nothing to install.
+* **On your computer:** download Element Desktop from https://element.io/download.
+* **On your phone:** install **Element X** from the App Store or Google Play. If Element X can't connect to your homeserver (see Step 2), use the classic **Element** app instead.
+
+Element is just the app, it is not where your account lives. You can sign in to any Element with an account from any homeserver, and use the same account on several devices at once. If you're curious about alternatives, see https://matrix.org/ecosystem/clients/ for a comparison.
 
 **Step 2: Register an Account**
 

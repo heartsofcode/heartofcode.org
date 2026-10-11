@@ -11,7 +11,13 @@ Wir nutzen [Matrix](https://matrix.org), eine sichere und dezentrale Kommunikati
 
 **Schritt 1: Installiere einen Matrix-Client**
 
-Lade dir einen der offiziellen Matrix-Clients für dein Gerät herunter und installiere ihn. Eine Liste findest du unter https://matrix.org/ecosystem/clients/. Alternativ kannst du auch eine Web-Version im Browser nutzen.
+Um Matrix zu nutzen, brauchst du eine App, einen sogenannten *Client*. Es gibt viele davon, wir empfehlen aber **Element**, den am weitesten verbreiteten. Element ist kostenlos und für alle Geräte verfügbar:
+
+* **Im Browser:** öffne https://app.element.io. Du musst nichts installieren.
+* **Auf dem Computer:** lade Element Desktop unter https://element.io/download herunter.
+* **Auf dem Handy:** installiere **Element X** aus dem App Store oder von Google Play. Falls sich Element X nicht mit deinem Homeserver verbinden kann (siehe Schritt 2), nimm stattdessen die klassische **Element**-App.
+
+Element ist nur die App, dein Account liegt nicht dort. Du kannst dich in jedem Element mit einem Account von jedem beliebigen Homeserver anmelden und denselben Account auf mehreren Geräten gleichzeitig nutzen. Wenn du auf alternative Clients neugierig bist, schau unter https://matrix.org/ecosystem/clients/, um verschiedene Clients zu vergleichen.
 
 **Schritt 2: Registriere einen Account**
 
