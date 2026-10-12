@@ -30,16 +30,32 @@ Wenn du Matrix zum ersten Mal ausprobierst, kannst du den Homeserver matrix.org 
 * [„Join Matrix!“-Anleitung: Grundlagen](https://joinmatrix.org/guide/#set-up-your-own-homeserver-or-join-an-existing-homeserver)
 * https://servers.joinmatrix.org/users.html
 
-**Schritt 3: Tritt unserem Matrix-Raum bei**
+Klicke in Element auf „Konto erstellen“. Als Homeserver ist matrix.org voreingestellt. Klicke daneben auf „Bearbeiten“, wenn du einen anderen nutzen möchtest.
+
+**Schritt 3: Speichere deinen Wiederherstellungsschlüssel**
+
+Bei der ersten Anmeldung fragt dich Element, ob du die *Wiederherstellung* ('recovery') (manchmal auch *secure backup* genannt) einrichten möchtest. Mach das und bewahre den Wiederherstellungsschlüssel an einem sicheren Ort auf, zum Beispiel in einem Passwortmanager. Du brauchst ihn, um deine verschlüsselten Nachrichten auf neuen Geräten zu lesen. Warum, erfährst du unten unter [Über Verschlüsselung](#uber-verschlusselung).
+
+**Schritt 4: Tritt unserem Matrix-Raum bei**
 
 Sobald dein Account eingerichtet ist, such in der Suchliste deines Clients nach der ID oder dem Namen unseres Hauptraums und tritt ihm bei. Unsere Raum-ID lautet: [`#community:matrix.heartofcode.org`](https://matrix.to/#/#community:matrix.heartofcode.org).
 
-**Schritt 4: Richte Benachrichtigungen ein**
+**Schritt 5: Richte Benachrichtigungen ein**
 
 Passe deine Benachrichtigungseinstellungen so an, dass du wichtige Neuigkeiten und Nachrichten mitbekommst.
 
-**Schritt 5: Leg los!**
+**Schritt 6: Leg los!**
 
 Stell dich gerne vor, stell Fragen und mach bei den Diskussionen mit den anderen Heart-of-Code-Leuten mit!
 
 Viel Spaß und willkommen in unserer Matrix-Instanz!
+
+### Über Verschlüsselung
+
+Matrix kann Nachrichten *Ende-zu-Ende-verschlüsseln*, sodass nur die Leute im Gespräch sie lesen können, nicht einmal die Server dazwischen.
+
+**Verschlüsselung wird pro Raum eingestellt.** Du musst selbst nichts tun: In einem verschlüsselten Raum verschlüsselt deine App jede Nachricht automatisch. Direktnachrichten und private Räume sind meist verschlüsselt, öffentliche Räume oft nicht. Dein Client zeigt dir in der Regel mit einem Symbol, etwa einem Schild oder Schloss, an, ob ein Raum verschlüsselt ist.
+
+**Dein Wiederherstellungsschlüssel hält deinen Verlauf lesbar.** Die Schlüssel zum Lesen verschlüsselter Nachrichten liegen auf deinen Geräten, nicht auf dem Server. Wenn du dich auf einem neuen Gerät anmeldest oder nach einer Abmeldung wieder anmeldest, brauchst du deinen Wiederherstellungsschlüssel (aus Schritt 3), um ältere Nachrichten zu lesen. Wenn du ihn verlierst und nirgendwo sonst angemeldet bist, lassen sich diese Nachrichten nicht wiederherstellen.
+
+Wenn du „Entschlüsselung nicht möglich“ siehst, prüfe, ob die Wiederherstellung eingerichtet ist und ob du dein Gerät verifiziert hast, als Element dich darum gebeten hat.

@@ -32,16 +32,32 @@ If you are trying Matrix for the first time, you could choose the matrix.org hom
 * [“Join Matrix!” Guide: Basics](https://joinmatrix.org/guide/#set-up-your-own-homeserver-or-join-an-existing-homeserver). 
 * https://servers.joinmatrix.org/users.html
 
-**Step 3: Join Our Organization's Matrix Room**
+In Element, click "Create account". The homeserver is preset to matrix.org. Click "Edit" next to it if you want to use a different one.
+
+**Step 3: Save Your Recovery Key**
+
+When you first sign in, Element will ask you to set up *recovery* (sometimes called *secure backup*). Do it, and keep the recovery key somewhere safe, like a password manager. You'll need it to read your encrypted messages on new devices. See [About Encryption](#about-encryption) below for why.
+
+**Step 4: Join Our Organization's Matrix Room**
 
 Once you've set up your account, find and join our organization's main room by searching for its ID or name in the client's search bar. Our room ID is: [`#community:matrix.heartofcode.org`](https://matrix.to/#/#community:matrix.heartofcode.org).
 
-**Step 4: Set up Notifications**
+**Step 5: Set up Notifications**
 
 Adjust your notification settings to ensure you receive important updates and messages from the team.
 
-**Step 5: Start Chatting**
+**Step 6: Start Chatting**
 
 Feel free to introduce yourself, ask questions, and participate in discussions with your fellow Heart of Coders!
 
 Happy collaborating, and welcome to our Matrix instance!
+
+### About Encryption
+
+Matrix can *end-to-end encrypt* messages, so only the people in a conversation can read them, not even the servers in between.
+
+**Encryption is set per room.** You don't need to do anything yourself: in an encrypted room, your app encrypts every message automatically. Direct messages and private rooms are usually encrypted. Public rooms often are not. Your client will usually show a badge or icon, such as a shield or lock, to tell you whether a room is encrypted.
+
+**Your recovery key keeps your history readable.** The keys to read encrypted messages are stored on your devices, not on the server. When you sign in on a new device, or sign back in after signing out, you'll need your recovery key (from Step 3) to read your older messages. If you lose it and aren't signed in anywhere else, those messages can't be recovered.
+
+If you see "Unable to decrypt", make sure recovery is set up and that you've verified your device when Element asked you to.
