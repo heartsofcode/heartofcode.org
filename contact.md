@@ -11,4 +11,4 @@ Sonst gibt es auch noch:
 - Mastodon: [@heartofcode@systemli.social](https://mastodon.social/@heartofcode@systemli.social)
 - Die [Signal-Gruppe](https://signal.group/#CjQKIKcj5S25ptG6H9bzdbaeot1_whif9j59J7bOmm91TeTlEhAc-VmeJpTuP-tZuOJad_MT) für Ankündigungen
 - Den [Kalender](/calendar.md) mit unserem Programm
-- Den [Matrix-Server](/matrix.md) für Echtzeitkommunikation
+- Den [Matrix-Space](/matrix.md) für Echtzeitkommunikation

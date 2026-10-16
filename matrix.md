@@ -1,13 +1,13 @@
-# Tritt unserer Matrix-Instanz bei
+# Tritt unserem Matrix-Space bei
 
-Heart of Code hat ein Community-Server, hier ist der Link, um dazu beizutreten: https://matrix.to/#/#community:matrix.heartofcode.org
+Heart of Code hat einen Community-Space auf Matrix. Hier ist der Link, um beizutreten: https://matrix.to/#/#community:matrix.heartofcode.org
 
 Wenn du noch nicht weißt, was Matrix ist, unten findest du eine Anleitung, wie du es einrichtest.
 
-### Über Matrix
-Wir nutzen [Matrix](https://matrix.org), eine sichere und dezentrale Kommunikationsplattform, um zusammenzuarbeiten und uns auszutauschen. Wenn du auf dem Laufenden bleiben und mit anderen Leuten aus der Heart of Code chatten möchtest, komm gerne in unsere Matrix-Instanz!
+## Über Matrix
+Wir nutzen [Matrix](https://matrix.org), eine sichere und dezentrale Kommunikationsplattform, um zusammenzuarbeiten und uns auszutauschen. Wenn du auf dem Laufenden bleiben und mit anderen Leuten aus der Heart of Code chatten möchtest, komm gerne in unseren Matrix-Space!
 
-### Einrichtung
+## Einrichtung
 
 **Schritt 1: Installiere einen Matrix-Client**
 
@@ -23,7 +23,7 @@ Element ist nur die App, dein Account liegt nicht dort. Du kannst dich in jedem 
 
 Falls du noch keinen Matrix-Account hast, registriere nach dem Start des Clients einen neuen. Dafür kannst du deine E-Mail-Adresse oder Telefonnummer verwenden.
 
-Der Matrix-Homeserver der Heart of Code verwaltet keine Accounts. Du musst dich also bei einem anderen Homeserver registrieren.
+Heart of Code betreibt auf Matrix nur einen Community-Space, du kannst dich also nicht bei uns registrieren. Du musst dich bei einem Homeserver registrieren, den jemand anderes betreibt.
 
 Wenn du Matrix zum ersten Mal ausprobierst, kannst du den Homeserver matrix.org wählen. Schau dir aber gerne die folgenden Anleitungen an, um die Vor- und Nachteile zu verstehen und einen passenden Homeserver auszuwählen:
 
@@ -48,9 +48,9 @@ Passe deine Benachrichtigungseinstellungen so an, dass du wichtige Neuigkeiten u
 
 Stell dich gerne vor, stell Fragen und mach bei den Diskussionen mit den anderen Heart-of-Code-Leuten mit!
 
-Viel Spaß und willkommen in unserer Matrix-Instanz!
+Viel Spaß und willkommen in unserem Matrix-Space!
 
-### Über Verschlüsselung
+## Über Verschlüsselung
 
 Matrix kann Nachrichten *Ende-zu-Ende-verschlüsseln*, sodass nur die Leute im Gespräch sie lesen können, nicht einmal die Server dazwischen.
 

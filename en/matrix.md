@@ -1,15 +1,15 @@
-# Join our Matrix Instance
+# Join our Matrix Space
 
-Heart of Code has a community server. Follow this link to join it: https://matrix.to/#/#community:matrix.heartofcode.org.
+Heart of Code has a community space on Matrix. Follow this link to join it: https://matrix.to/#/#community:matrix.heartofcode.org.
 
 If you don't know what Matrix is, follow this guide to get setup.
 
-### About Matrix
-We use [Matrix](https://matrix.org), a secure and decentralized communication platform, to collaborate and communicate. We encourage you to join our Matrix instance, if you want to stay informed and chat with fellow Heart of Code folks. 
+## About Matrix
+We use [Matrix](https://matrix.org), a secure and decentralized communication platform, to collaborate and communicate. We encourage you to join our Matrix space if you want to stay informed and chat with fellow Heart of Code folks. 
 
-This guide will help you get started with our Matrix instance.
+This guide will help you get started with our Matrix space.
 
-### Setup
+## Setup
 
 **Step 1: Install a Matrix Client**
 
@@ -25,7 +25,7 @@ Element is just the app, it is not where your account lives. You can sign in to 
 
 After launching a Matrix client, if you don't already have a Matrix account, register a new one. You can use your email address or phone number for registration. 
 
-Heart of Code's Matrix homeserver does not hold user accounts, so you will need to choose a different homeserver to register.
+Heart of Code only runs a community space on Matrix, so you can't sign up with us. You will need to register with a homeserver run by someone else.
 
 If you are trying Matrix for the first time, you could choose the matrix.org homeserver. However, please take a look at the following guides to understand the tradeoffs/advice on choosing a homeserver: 
 
@@ -50,9 +50,9 @@ Adjust your notification settings to ensure you receive important updates and me
 
 Feel free to introduce yourself, ask questions, and participate in discussions with your fellow Heart of Coders!
 
-Happy collaborating, and welcome to our Matrix instance!
+Happy collaborating, and welcome to our Matrix space!
 
-### About Encryption
+## About Encryption
 
 Matrix can *end-to-end encrypt* messages, so only the people in a conversation can read them, not even the servers in between.
 
