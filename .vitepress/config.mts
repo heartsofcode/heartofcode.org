@@ -5,6 +5,7 @@ export default defineConfig({
   title: "Heart of Code",
   description: "FLINTA Hackspace in Berlin",
   cleanUrls: true,
+  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
   
   locales: {
     root: {
@@ -13,11 +14,12 @@ export default defineConfig({
       themeConfig: {
         nav: [
           { text: 'Über uns', link: '/about' },
+          { text: 'Kontakt', link: '/contact' },
+          { text: 'Spenden', link: '/donations' },
           { text: 'Raum', link: '/space' },
           { text: 'Events', link: '/events' },
           { text: 'Kalender', link: '/calendar' },
-          { text: 'Kontakt', link: '/contact' },
-          { text: 'Spenden', link: '/donations' },
+          { text: 'Online Community', link: '/matrix' },
         ],
         outline: {
           label: 'Auf dieser Seite',
@@ -31,11 +33,12 @@ export default defineConfig({
       themeConfig: {
         nav: [
           { text: 'About us', link: '/en/about' },
+          { text: 'Contact', link: '/en/contact' },
+          { text: 'Donations', link: '/en/donations' },
           { text: 'Space', link: '/en/space' },
           { text: 'Events', link: '/en/events' },
           { text: 'Calendar', link: '/calendar' },
-          { text: 'Contact', link: '/en/contact' },
-          { text: 'Donations', link: '/en/donations' },
+          { text: 'Online Community', link: '/en/matrix' },
         ],
       }
     }
@@ -55,7 +58,6 @@ export default defineConfig({
       {icon: "signal", link: "https://signal.group/#CjQKIKcj5S25ptG6H9bzdbaeot1_whif9j59J7bOmm91TeTlEhAc-VmeJpTuP-tZuOJad_MT"},
       {icon: "mastodon", link: "https://mastodon.social/@heartofcode@systemli.social"},
       { icon: 'github', link: 'https://github.com/heartsofcode' },
-      { icon: 'matrix', link: 'https://matrix.to/#/#community:matrix.heartofcode.org' },
     ]
   }
 })

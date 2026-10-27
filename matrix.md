@@ -1,13 +1,16 @@
-# Tritt unserem Matrix-Space bei
+# Online Community Space
 
-Heart of Code hat einen Community-Space auf Matrix. Hier ist der Link, um beizutreten: https://matrix.to/#/#community:matrix.heartofcode.org
+Heart of Code hat einen Community Space auf Matrix. Ein Ort zum Online-Austausch mit verschiedenen Channels/Räumen zum Chatten. Von Jobangeboten bis Katzenbildern. Schaue gerne einfach mal vorbei. Beachte das auch unser online space ausschließlich von und für FLINTAs ist! Lies dir unbedingt unseren [Code of Conduct](/codeofconduct.md) durch!  
 
-Wenn du noch nicht weißt, was Matrix ist, unten findest du eine Anleitung, wie du es einrichtest.
+Hier ist der Link, um beizutreten: https://matrix.to/#/#community:matrix.heartofcode.org
+
+Wenn Matrix für dich noch neu ist, findest du hier eine Einführung:
 
 ## Über Matrix
-Wir nutzen [Matrix](https://matrix.org), eine sichere und dezentrale Kommunikationsplattform, um zusammenzuarbeiten und uns auszutauschen. Wenn du auf dem Laufenden bleiben und mit anderen Leuten aus der Heart of Code chatten möchtest, komm gerne in unseren Matrix-Space!
 
-## Einrichtung
+[Matrix](https://matrix.org) ist eine sichere und dezentrale Kommunikationsplattform die auf offenen Standards beruht.
+
+### Einrichtung
 
 **Schritt 1: Installiere einen Matrix-Client**
 
@@ -50,7 +53,7 @@ Stell dich gerne vor, stell Fragen und mach bei den Diskussionen mit den anderen
 
 Viel Spaß und willkommen in unserem Matrix-Space!
 
-## Über Verschlüsselung
+### Über Verschlüsselung
 
 Matrix kann Nachrichten *Ende-zu-Ende-verschlüsseln*, sodass nur die Leute im Gespräch sie lesen können, nicht einmal die Server dazwischen.
 
