@@ -13,6 +13,7 @@ up in front of a locked door ♥
 ## Current events
 
 ### November 2026
+
 **★ DI 03.11. 18:30 Programming Co-learning (biweekly)**\
 DE: Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
 Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
@@ -31,7 +32,39 @@ EN: Come over and join us to work on your project in a cozy and relaxed
 atmosphere. We're learning programming together and can discuss your
 tech questions. Or just hang out!
 
+**18.11. 19:00 - How Do We Decide What „Good” AI Is?**
+
+An event in cooperation with the Weizenbaum Institute:
+
+How Do We Decide What „Good” AI Is?
+Understanding AI Evaluation
+
+18.11.2026, 7pm
+Weizenbaum-Institut, Hardenbergstraße 32, 10623 Berlin
+
+Evaluation plays a central role in the development of Large Language Models (LLMs) shaping nearly every stage of the lifecycle. Most evaluation practices rely on fixed metrics and scores as well as target examples of what is considered the desired and correct model behavior.
+
+From a queer-feminist perspective, this raises critical questions: Who determines what is evaluated, on what basis, and by which methods? What norms underpin these evaluations, and what is deemed “problematic” or acceptable? And how (if at all possible) could a queer-feminist evaluation of AI look like? These questions extend beyond representation, touching on broader issues of power: Who holds the authority to influence how modern technology is designed and who is included in its development?
+
+There will be inputs from awesome speakers at the beginning, followed by a panel and the opportunity for guest to ask questions. Afterwards there will also be plenty of time to mingle and connect ☺️
+
+Here you finde more information as well as the possibility to register for the event:
+https://www.weizenbaum-institut.de/veranstaltungen/detailseite/how-do-we-decide-what-good-ai-is/
+
+Feel free to reach out if you have any questions or need more information to be able to attend.
+
+## Past events
+
 ### Oktober 2026
+
+**★ DI 06.10. 18:30 Programming Co-learning (biweekly)**\
+DE: Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
+Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
+besprechen. Oder häng einfach ab!
+
+EN: Come over and join us to work on your project in a cozy and relaxed
+atmosphere. We're learning programming together and can discuss your
+tech questions. Or just hang out!
 
 **★ DO 08.10. 18:30 AI venting and zine club ❤️‍🩹❤️‍🩹❤️‍🩹**\
 DE: Fragst du dich manchmal, ob du die letzte Person bist, die noch 
@@ -44,19 +77,6 @@ everybody seems to use AI mindlessly? This is a space to rant and vent and
 we may channel our emotions into a small zine.
 
 **★ DI 20.10. 18:30 Programming Co-learning (biweekly)**\
-DE: Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
-Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
-besprechen. Oder häng einfach ab!
-
-EN: Come over and join us to work on your project in a cozy and relaxed
-atmosphere. We're learning programming together and can discuss your
-tech questions. Or just hang out!
-
-
-## Past events
-
-### Oktober 2026
-**★ DI 06.10. 18:30 Programming Co-learning (biweekly)**\
 DE: Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
 Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
 besprechen. Oder häng einfach ab!
