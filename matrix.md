@@ -12,15 +12,19 @@ Wenn Matrix für dich noch neu ist, findest du hier eine Einführung:
 
 ### Einrichtung
 
-**Schritt 1: Installiere einen Matrix-Client**
+**Schritt 1: Ein Matrix-Client**
 
-Um Matrix zu nutzen, brauchst du eine App, einen sogenannten *Client*. Es gibt viele davon, wir empfehlen aber **Element**, den am weitesten verbreiteten. Element ist kostenlos und für alle Geräte verfügbar:
+Um Matrix zu nutzen, brauchst du eine App, einen sogenannten *Client*. Es gibt viele davon und am Ende kommt es ganz auf deinen Geschmack an. Wir benutzen selber gerne [Fluffychat](https://fluffychat.im/) und [Sable](https://docs.sable.moe/). Hier gibt es eine Übersicht über alle: https://matrix.org/ecosystem/clients/ 
+
+Für den Anfang können wir aber auch **Element**, den am weitesten verbreiteten und default Client, empfehlen. Element ist kostenlos und für alle Geräte verfügbar:
 
 * **Im Browser:** öffne https://app.element.io. Du musst nichts installieren.
 * **Auf dem Computer:** lade Element Desktop unter https://element.io/download herunter.
-* **Auf dem Handy:** installiere **Element X** aus dem App Store oder von Google Play. Falls sich Element X nicht mit deinem Homeserver verbinden kann (siehe Schritt 2), nimm stattdessen die klassische **Element**-App.
+* **Auf dem Handy:** installiere **Element X** aus deinem app store.
 
-Element ist nur die App, dein Account liegt nicht dort. Du kannst dich in jedem Element mit einem Account von jedem beliebigen Homeserver anmelden und denselben Account auf mehreren Geräten gleichzeitig nutzen. Wenn du auf alternative Clients neugierig bist, schau unter https://matrix.org/ecosystem/clients/, um verschiedene Clients zu vergleichen.
+Element ist nur die App, dein Account liegt nicht dort. Du kannst dich in Element mit einem Account von jedem beliebigen Homeserver anmelden und denselben Account auf mehreren Geräten gleichzeitig nutzen.
+
+Du kannst später auch immer noch zu einem anderen Client wechseln und problemlos mehrere ausprobieren.
 
 **Schritt 2: Registriere einen Account**
 
@@ -41,7 +45,7 @@ Bei der ersten Anmeldung fragt dich Element, ob du die *Wiederherstellung* ('rec
 
 **Schritt 4: Tritt unserem Matrix-Raum bei**
 
-Sobald dein Account eingerichtet ist, such in der Suchliste deines Clients nach der ID oder dem Namen unseres Hauptraums und tritt ihm bei. Unsere Raum-ID lautet: [`#community:matrix.heartofcode.org`](https://matrix.to/#/#community:matrix.heartofcode.org).
+Sobald dein Account eingerichtet ist, such in der Suchliste deines Clients nach der ID oder dem Namen unseres Hauptraums und tritt ihm bei. Unsere Raum-ID lautet: [`#community:matrix.heartofcode.org`](https://matrix.to/#/#community:matrix.heartofcode.org) (der Link bringt dich auch direkt dahin).
 
 **Schritt 5: Richte Benachrichtigungen ein**
 

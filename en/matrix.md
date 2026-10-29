@@ -12,15 +12,19 @@ If you don't know what Matrix is, follow this guide to get setup:
 
 ### Setup
 
-**Step 1: Install a Matrix Client**
+**Step 1: A Matrix Client**
 
-To use Matrix you need an app, called a *client*. There are many to choose from, but we recommend **Element**, the most widely used one. It's free and available everywhere:
+To use Matrix you need an app, called a *client*. There are many to choose from and in the end it really depends on your own preferences. We personally like to use [Fluffychat](https://fluffychat.im/) and [Sable](https://docs.sable.moe/). You can find an overview of all clients here: https://matrix.org/ecosystem/clients/ 
+
+To get started we can also recommend **Element**, the most widely used one and default client though. It's free and available everywhere:
 
 * **In your browser:** open https://app.element.io. Nothing to install.
 * **On your computer:** download Element Desktop from https://element.io/download.
-* **On your phone:** install **Element X** from the App Store or Google Play. If Element X can't connect to your homeserver (see Step 2), use the classic **Element** app instead.
+* **On your phone:** install **Element X** from your app store.
 
-Element is just the app, it is not where your account lives. You can sign in to any Element with an account from any homeserver, and use the same account on several devices at once. If you're curious about alternatives, see https://matrix.org/ecosystem/clients/ for a comparison.
+Element is just the app, it is not where your account lives. You can sign in to Element with an account from any homeserver, and use the same account on several devices at once. 
+
+You can always switch to a different client later so don't be afraid to try a few out to see what fits.
 
 **Step 2: Register an Account**
 
@@ -41,11 +45,11 @@ When you first sign in, Element will ask you to set up *recovery* (sometimes cal
 
 **Step 4: Join Our Organization's Matrix Room**
 
-Once you've set up your account, find and join our organization's main room by searching for its ID or name in the client's search bar. Our room ID is: [`#community:matrix.heartofcode.org`](https://matrix.to/#/#community:matrix.heartofcode.org).
+Once you've set up your account, find and join our organization's main room by searching for its ID or name in the client's search bar. Our room ID is: [`#community:matrix.heartofcode.org`](https://matrix.to/#/#community:matrix.heartofcode.org) (the link also takes you there directly).
 
 **Step 5: Set up Notifications**
 
-Adjust your notification settings to ensure you receive important updates and messages from the team.
+Adjust your notification settings to ensure you receive important updates and messages.
 
 **Step 6: Start Chatting**
 
