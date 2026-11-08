@@ -6,4 +6,4 @@ Everything Heart of Code is by and for [FLINTA](https://en.wikipedia.org/wiki/FL
 
 We are committed to providing a friendly, safe and welcoming environment for all, regardless of level of experience, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, caste, age, religion, nationality, or other similar characteristic. Be kind and courteous. Ask bevore helping. Don't assume someones pronouns. We will exclude you from interaction if you insult, demean or harass anyone. Don't doxx anyone and be aware of the consequences that come with HoC being a public space.  
 
-If you have the need to talk to someone about discrimination you widnessed, harassment you experienced or similar please reach out to one of the club members. 
+If you have the need to talk to someone about discrimination you witnessed, harassment you experienced or similar please reach out to one of the club members. 
