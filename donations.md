@@ -10,9 +10,10 @@ Du (oder deine Firma) könnt uns ganz klassisch Geld spenden! Wir sind gemeinnü
 **Kontodaten:**
 
 Name: Heart of Code e.V. \
-IBAN: DE22500310001047900006 \
-BIC: TRODDEF1 \
-Verwendungszweck: Spende
+IBAN: DE94 1005 0000 0191 6775 40 \
+BIC: BELADEBEXXX \
+Verwendungszweck: Spende \
+Bank: Berliner Sparkasse
 
 Für eine Spendenbescheinigung schreibst du uns am besten eine [Mail](mailto:hello@heartofcode.org?subject=Spendenbescheinigung) mit dem Datum und Betrag der Überweisung und dann (ganz wichtig!) dem vollständigen Namen und Anschrift für den Spendenbescheid. Den gibt's dann per Post.
 
