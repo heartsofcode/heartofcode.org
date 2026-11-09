@@ -22,7 +22,7 @@ To get started we can also recommend **Element**, the most widely used one and d
 * **On your computer:** download Element Desktop from https://element.io/download.
 * **On your phone:** install **Element X** from your app store.
 
-Element is just the app, it is not where your account lives. You can sign in to Element with an account from any homeserver, and use the same account on several devices at once. 
+Element is just the app, it is not where your account lives. You can sign in to Element with an account from any homeserver (where your account actually lives, more in the next section), and use the same account on several devices at once. 
 
 You can always switch to a different client later so don't be afraid to try a few out to see what fits.
 
