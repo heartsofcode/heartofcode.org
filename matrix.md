@@ -22,7 +22,7 @@ Für den Anfang können wir aber auch **Element**, den am weitesten verbreiteten
 * **Auf dem Computer:** lade Element Desktop unter https://element.io/download herunter.
 * **Auf dem Handy:** installiere **Element X** aus deinem app store.
 
-Element ist nur die App, dein Account liegt nicht dort. Du kannst dich in Element mit einem Account von jedem beliebigen Homeserver anmelden und denselben Account auf mehreren Geräten gleichzeitig nutzen.
+Element ist nur die App, dein Account liegt nicht dort. Du kannst dich in Element mit einem Account von jedem beliebigen Homeserver (wo dein Account tatsächlich liegt, dazu gleich mehr) anmelden und denselben Account auf mehreren Geräten gleichzeitig nutzen.
 
 Du kannst später auch immer noch zu einem anderen Client wechseln und problemlos mehrere ausprobieren.
 
