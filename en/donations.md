@@ -9,9 +9,9 @@ You (or your company) can make a traditional monetary donation! We are a nonprof
 **Bank details:**
 
 Name: Heart of Code e.V. \
-IBAN: DE22500310001047900006 \
-BIC: TRODDEF1 \
-Reference: Donation
+IBAN: DE94 1005 0000 0191 6775 40 \
+BIC: BELADEBEXXX \
+Reference: Donation \
 
 To receive a donation receipt, please send us an [email](mailto:hello@heartofcode.org?subject=Donation%20receipt) with the date and amount of the transfer, and then (very important!) your full name and address for the donation receipt. We’ll then send it to you by mail.
 
