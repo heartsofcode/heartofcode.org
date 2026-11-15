@@ -1,29 +1,8 @@
----
-outline: [2,3]
----
+# Calendar Archive
 
-# Calendar
-
-Manchmal ändern sich Termine, werden abgesagt oder verschoben. Bitte guckt am Tag des Termins nochmal hier im Kalender damit ihr dann nicht vor verschlossener Tür steht ♥
-
-Sometimes events change, canceled or postponed. Please check this calendar
-again on the day of the event you want to visit so that you don\'t end
-up in front of a locked door ♥
-
-## Current events
-
-### November 2026
+## November 2026
 
 **★ DI 03.11. 18:30 Programming Co-learning (biweekly)**\
-DE: Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
-Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
-besprechen. Oder häng einfach ab!
-
-EN: Come over and join us to work on your project in a cozy and relaxed
-atmosphere. We're learning programming together and can discuss your
-tech questions. Or just hang out!
-
-**★ DI 17.11. 18:30 Programming Co-learning (biweekly)**\
 DE: Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
 Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
 besprechen. Oder häng einfach ab!
@@ -53,9 +32,7 @@ https://www.weizenbaum-institut.de/veranstaltungen/detailseite/how-do-we-decide-
 
 Feel free to reach out if you have any questions or need more information to be able to attend.
 
-## Past events
-
-### Oktober 2026
+## Oktober 2026
 
 **★ DI 06.10. 18:30 Programming Co-learning (biweekly)**\
 DE: Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
@@ -85,7 +62,7 @@ EN: Come over and join us to work on your project in a cozy and relaxed
 atmosphere. We're learning programming together and can discuss your
 tech questions. Or just hang out!
 
-### September 2026
+## September 2026
 **★ DI 08.09. 18:30 Programming Co-learning (biweekly)**\
 DE: Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
 Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
@@ -112,7 +89,7 @@ Komm vorbei!
 EN: Unpack your paper, pens, scissors! We're making zines this afternoon. 
 Rough, fast and dirty zines. You will finish your zine today. Come by!
 
-### August 2026
+## August 2026
 **★ DI 25.08. 18:30 Programming Co-learning (biweekly)**\
 DE: Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
 Projekt. Wir lernen zusammen Programmieren und können Tech-Fragen
@@ -131,7 +108,7 @@ EN: Come over and join us to work on your project in a cozy and relaxed
 atmosphere. We're learning programming together and can discuss your
 tech questions. Or just hang out!
 
-### Juli 2026
+## Juli 2026
 **★ MI 08.07. 19:00 Multi-Thread-Meetup**\
 Beim Multi-Thread-Meetup geht es darum Dinge gleichzeitig zu tun, nämlich
 etwas mit den Händen und Faden (wie Stricken, Häkeln, Kreuzstich, oder
@@ -179,7 +156,7 @@ Show Us Your Hearts is an evening for sharing whatever moves you: whether it’
 Everyone gets a 10-15 minute slot to share their screen with the group. The idea is simple: Let’s see what you’re working on, what excites you, or what you’re curious about. Or just come to watch, connect and get to know the Heart of Code. Hope to see many (new) faces! ☺️
 
 
-### Juni 2026
+## Juni 2026
 
 **★ DI 30.06. 18:30 Programming Co-learning (biweekly)**\
 DE: Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
@@ -209,7 +186,7 @@ atmosphere. We're learning programming together and can discuss your
 tech questions. Or just hang out!
 
 
-### Mai 2026
+## Mai 2026
 
 **★ SU 31.05. Heart of Code Brunch *INTERNAL***
 
@@ -230,7 +207,7 @@ Come over and join us to work on your project in a cozy and relaxed
 atmosphere. We\'re learning programming together and can discuss your
 tech questions. Or just hang out!
 
-### April 2026
+## April 2026
 
 **★ TH 30.04. Heart of Code cozy organizational evening**
 
@@ -309,7 +286,7 @@ tech questions. Or just hang out!
 
 **★ 06.04. NY Cleaning**
 
-### March 2026
+## March 2026
 
 **★ DI 31.03. 18:30 Programming Co-learning (biweekly)**\
 Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
@@ -354,7 +331,7 @@ Come over and join us to work on your project in a cozy and relaxed
 atmosphere. We\'re learning programming together and can discuss your
 tech questions. Or just hang out!
 
-### February 2026
+## February 2026
 
 **★ ~~MO 02.02.~~ DI 03.02. 19:00 Make your own f\*ing Website** **BIG
 FINALE**\
@@ -408,7 +385,7 @@ about.
 **★ TH 26.02. 19:00 Heart of Code cozy organizational evening
 *INTERNAL***
 
-### January 2026
+## January 2026
 **★ MO 05.01. 19:00 KICKOFF: Make your own f\*ing Website**\
 Read more/ Erfahre mehr
 [https://pad.systemli.org/p/rohxeGxbg2WK8qsd6Dh2](https://pad.systemli.org/p/rohxeGxbg2WK8qsd6Dh2)
@@ -456,7 +433,7 @@ tech questions. Or just hang out!
 Read more/ Erfahre mehr
 [https://pad.systemli.org/p/rohxeGxbg2WK8qsd6Dh2](https://pad.systemli.org/p/rohxeGxbg2WK8qsd6Dh2)
 
-### December 2025
+## December 2025
 
 **★ DI 16.12. 18:30 Programming Co-learning (biweekly)**\
 Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
@@ -491,7 +468,7 @@ sharing!
 
 For more info see:
 [https://pad.systemli.org/p/RQeNN4fkzXobT6tRSeO2-keep](https://pad.systemli.org/p/RQeNN4fkzXobT6tRSeO2-keep)
-### November 2025
+## November 2025
 
 **★ SO 02.11. 15:00-18:00** ✨ **3D Printing the anatomy of Pleasure**\
 In this workshop, we'll explore the anatomy of the genitals and all the
@@ -585,7 +562,7 @@ besprechen. Oder häng einfach ab!~~\
 atmosphere. We\'re learning programming together and can discuss your
 tech questions. Or just hang out!~~
 
-### October 2025
+## October 2025
 **★ Friday 10.10.2025 Server Charm Workshop ✨  from 18:00 til around
 21:00**
 
@@ -632,7 +609,7 @@ besprechen. Oder häng einfach ab!\
 Come over and join us to work on your project in a cozy and relaxed
 atmosphere. We\'re learning programming together and can discuss your
 tech questions. Or just hang out!
-### September 2025
+## September 2025
 
 **★ DI 02.09. 18:30 Programming Co-learning (biweekly)**\
 Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
@@ -686,7 +663,7 @@ besprechen. Oder häng einfach ab!\
 Come over and join us to work on your project in a cozy and relaxed
 atmosphere. We\'re learning programming together and can discuss your
 tech questions. Or just hang out!
-### August 2025
+## August 2025
 
 **★ DI 26.08. 17:30 Internal meeting (drip collective)**
 
@@ -716,7 +693,7 @@ Where: HoC Space, Mariannenplatz 2A\
 Chat thread:
 [https://heartofcode.slack.com/archives/C0L758F45/p1754848150182199](https://heartofcode.slack.com/archives/C0L758F45/p1754848150182199)
 
-### July 2025
+## July 2025
 
 **★ DI 22.07. 18:30 Programming Co-learning (biweekly)**\
 Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
@@ -755,7 +732,7 @@ Come over and join us to work on your project in a cozy and relaxed
 atmosphere. We\'re learning programming together and can discuss your
 tech questions. Or just hang out!
 
-### June 2025
+## June 2025
 
 **★ DI 10.06. 18:30 Programming Co-learning (biweekly)**\
 Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
@@ -790,7 +767,7 @@ Come over and join us to work on your project in a cozy and relaxed
 atmosphere. We\'re learning programming together and can discuss your
 tech questions. Or just hang out!
 
-### Mai 2025
+## Mai 2025
 
 **★ DI 27.05. 18:30 Programming Co-learning (biweekly)**\
 Komm vorbei und arbeite in einer gemütlichen Atmosphäre an deinem
@@ -809,7 +786,7 @@ atmosphere. We\'re learning programming together and can discuss your
 tech questions. Or just hang out!
 
 
-### April 2025
+## April 2025
 
 **★ DI 29.04. 18:30 Programming Co-learning (biweekly)**\
 Komm vorbei und mach ein Tutorial, schau einen Vortrag an oder erledigt
@@ -835,7 +812,7 @@ just hang out!
 einfach vorbei. ~
 ~~A meetup to hang out, chat and network. ~
 
-### März 2025
+## März 2025
 
 **★ DI 04.03. 18:30 Programming Co-learning (biweekly)**\
 Komm vorbei und mach ein Tutorial, schau einen Vortrag an oder erledigt
@@ -868,7 +845,7 @@ andere Aufgaben. Oder hängt einfach ab!\
 Come and do a tutorial, watch a conference talk or do other tasks. Or
 just hang out!
 
-### Februar 2025
+## Februar 2025
 
 **★ DI 04.02. 18:30 Programming Co-learning (biweekly)**\
 Komm vorbei und mach ein Tutorial, schau einen Vortrag an oder erledigt
@@ -909,7 +886,7 @@ join us!**\
 einfach vorbei. ~
 ~~A meetup to hang out, chat and network.~
 
-### Januar 2025
+## Januar 2025
 
 **★ DI 21.01. 18:30 Programming Co-learning (biweekly)**\
 Komm vorbei und mach ein Tutorial, schau einen Vortrag an oder erledigt
@@ -954,7 +931,7 @@ einfach vorbei. \
 A meetup to hang out, chat and network. 
 
 
-### Dezember 2024
+## Dezember 2024
 
 **★ MI 04.12. 19:00 Glitter Meetup meets CryptoParty**\
 **⚠️ ORTSWECHSEL EXTERNES EVENT/CHANGE OF VENUE EXTERNAL EVENT!**\
@@ -973,7 +950,7 @@ Ein kleines Treffen zum Abhängen, Quatschen und Kennenlernen. Komm
 einfach vorbei. \
 A meetup to hang out, chat and network. 
 
-### November 2024
+## November 2024
 ★ FR 01.11. 19:00 BAMES spooky edition (doors open 18:30)\
 We\'ll play a spooky game together on the projector! Game to be
 announced! Bring candy and candles and a plushie to hold on to ;)\
@@ -1007,7 +984,7 @@ andere Aufgaben. Oder hängt einfach ab!\
 Come and do a tutorial, watch a conference talk or do other tasks. Or
 just hang out!
 
-### OCTOBER 2024
+## OCTOBER 2024
 
 **★ cancelled ~~30.10. 18:30 Glitter Meetup 💖~~**\
 ~~Ein kleines Treffen zum Abhängen, Quatschen und Kennenlernen. ~
@@ -1032,7 +1009,7 @@ andere Aufgaben. Oder hängt einfach ab!\
 Come and do a tutorial, watch a conference talk or do other tasks. Or
 just hang out!
 
-### SEPTEMBER 2024
+## SEPTEMBER 2024
 
 \
 **★ FÄLLT LEIDER AUS WEGEN KRANKHEIT - CANCELLED DUE TO SICKNESS**\
@@ -1078,7 +1055,7 @@ Bring your own gear, any level welcome! 
 
 
 
-### AUGUST 2024
+## AUGUST 2024
 
 **★ 28.08. 18:30 Glitter Meetup 💖 (biweekly)**\
 Ein kleines Treffen zum Abhängen, Quatschen und Kennenlernen. \
@@ -1125,7 +1102,7 @@ andere Aufgaben. Oder hängt einfach ab!\
 Come and do a tutorial, watch a conference talk or do other tasks. Or
 just hang out!
 
-### JULY 2024
+## JULY 2024
 
 **★ 23.07. 18:30 Programming Co-learning**\
 Komm vorbei und mach ein Tutorial, schau einen Vortrag an oder erledigt
@@ -1154,7 +1131,7 @@ crocheting, cross-stiching, whatever) and something with your brain
 (probably watching one or more tech talks together and talk about it).
 Bring your own gear, any level welcome! 
 
-### JUNE 2024
+## JUNE 2024
 
 **★ 25.06. 18:30 Programming Co-learning**\
 Komm vorbei und mach ein Tutorial, schau einen Vortrag an oder erledigt
@@ -1168,7 +1145,7 @@ andere Aufgaben. Oder hängt einfach ab!\
 Come and do a tutorial, watch a conference talk or do other tasks. Or
 just hang out!
 
-### MAY 2024
+## MAY 2024
 
 **★ 28.05. 18:30 Programming Co-learning**\
 Komm vorbei und mach ein Tutorial, schau einen Vortrag an oder erledigt
@@ -1182,7 +1159,7 @@ andere Aufgaben. Oder hängt einfach ab!\
 Come and do a tutorial, watch a conference talk or do other tasks. Or
 just hang out!
 
-### APRIL 2024
+## APRIL 2024
 **★ 30.04. 18:30 Programming Co-learning**\
 Komm vorbei und mach ein Tutorial, schau einen Vortrag an oder erledigt
 andere Aufgaben. Oder hängt einfach ab!\
@@ -1200,7 +1177,7 @@ Komm vorbei und mach ein Tutorial, schau einen Vortrag an oder erledigt
 andere Aufgaben. Oder hängt einfach ab!\
 Come and do a tutorial, watch a conference talk or do other tasks. Or
 just hang out!
-### MAR 2024
+## MAR 2024
 ★ 05.03. 18:30 \~ Programming Co-learning\
 Komm vorbei und mach ein Tutorial, schau einen Vortrag an oder erledigt
 andere Aufgaben. Oder hängt einfach ab!\
@@ -1213,7 +1190,7 @@ andere Aufgaben. Oder hängt einfach ab!\
 Come and do a tutorial, watch a conference talk or do other tasks. Or
 just hang out!
 
-### FEB 2024
+## FEB 2024
 
 **★ 20.02. 18:30 \~ Programming Co-learning**\
 Komm vorbei und mach ein Tutorial, schau einen Vortrag an oder erledigt
@@ -1263,7 +1240,7 @@ andere Aufgaben. Oder hängt einfach ab!\
 Come and do a tutorial, watch a conference talk or do other tasks. Or
 just hang out!
 
-### JAN 2024
+## JAN 2024
 
 **★ 23.01. 18:30 \~ Programming Co-learning**\
 Komm vorbei und mach ein Tutorial, schau einen Vortrag an oder erledigt
@@ -1301,7 +1278,7 @@ The format is NOT a workshop, but rather a joint experimentation and
 creation.\
 Feel free to bring craft materials. We will make tea and coffee.
 
-### Dezember 2023
+## Dezember 2023
 
 **~~★ 15.12. 18:30 \~ BAMES~~  Cancelled!**
 
@@ -1330,7 +1307,7 @@ The format is NOT a workshop, but rather a joint experimentation and
 creation.\
 Feel free to bring craft materials. We will make tea and coffee.
 
-### November 2023
+## November 2023
 
 **★ 28.11. 18:30 \~ Programming Co-learning**\
 Komm vorbei und mach ein Tutorial, schau einen Vortrag an oder erledigt
@@ -1385,7 +1362,7 @@ in times of pervasive commercial tracking and state surveillance.
 Absolutely no prior knowledge is required, you don\'t have to register
 anywhere and all questions are beautiful! 
 
-### Oktober 2023
+## Oktober 2023
 **★ 31.10. 18:30 \~ Programming Co-learning**\
 Komm vorbei und mach ein Tutorial, schau einen Vortrag an oder erledigt
 andere Aufgaben. Oder hängt einfach ab!\
@@ -1416,7 +1393,7 @@ Code, To Dos oder lernen uns neu kennen, alle sind willkommen.\
 We get together and talk about any current plans for the Heart of Code,
 organizational To Dos or get to know new faces, everyone welcome.
 
-### September 2023
+## September 2023
 
 **★ 22.09. 18:30 \~ BAMES**\
 Wir spielen (Brett\|Video) Spiele zusammen, hängen mit Snacks und
@@ -1460,7 +1437,7 @@ Komm vorbei und mach ein Tutorial, schau einen Vortrag an oder erledigt
 andere Aufgaben. Oder hängt einfach ab!\
 Come and do a tutorial, watch a conference talk or do other tasks. Or
 just hang out!\
-\### AUGUST 2023\
+\## AUGUST 2023\
 **★ 22.08. 18:30 \~ Programming Co-learning**
 
 Komm vorbei und mach ein Tutorial, schau einen Vortrag an oder erledigt
@@ -1482,7 +1459,7 @@ andere Aufgaben. Oder hängt einfach ab!\
 Come and do a tutorial, watch a conference talk or do other tasks. Or
 just hang out!
 
-### JULI 2023
+## JULI 2023
 **★ 28.07. 18:30 \~ BAMES - Queer Indie Edition**
 
 Wir spielen uns durch das Queer Games Bundle 2023 durch

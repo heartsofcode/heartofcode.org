@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: alt
       text: Eventkalender
-      link: /calendar
+      link: https://events.heartofcode.org
     - theme: alt
       text: Wegbeschreibung
       link: /space#wegbeschreibung

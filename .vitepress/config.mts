@@ -18,7 +18,7 @@ export default defineConfig({
           { text: 'Spenden', link: '/donations' },
           { text: 'Raum', link: '/space' },
           { text: 'Events', link: '/events' },
-          { text: 'Kalender', link: '/calendar' },
+          { text: 'Eventkalender', link: 'https://events.heartofcode.org' },
           { text: 'Online Community', link: '/matrix' },
         ],
         outline: {
@@ -37,7 +37,7 @@ export default defineConfig({
           { text: 'Donations', link: '/en/donations' },
           { text: 'Space', link: '/en/space' },
           { text: 'Events', link: '/en/events' },
-          { text: 'Calendar', link: '/calendar' },
+          { text: 'Event Calendar', link: 'https://events.heartofcode.org' },
           { text: 'Online Community', link: '/en/matrix' },
         ],
       }
